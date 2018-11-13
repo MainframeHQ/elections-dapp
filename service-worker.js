@@ -11,10 +11,10 @@
  * See https://goo.gl/2aRDsh
  */
 
-importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
+importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/dapp-tutorial/precache-manifest.37b08450d3d422d7872555f220f06b7b.js"
+  "/dapp-tutorial/precache-manifest.b1a42a2377e9fd509935ab5cc5f08420.js"
 );
 
 workbox.clientsClaim();
