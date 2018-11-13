@@ -11,10 +11,10 @@ Election dapp tutorial
 6. `yarn` 
 
 ## testing
-1. Run ganache
-2. `truffle test`
+0. Run ganache
+1. `truffle test`
 
 ## running the dapp
-1. Run ganache
-2. `cd interface`
-3. `yarn start`
+0. Run ganache
+1. `cd interface`
+2. `yarn start`
