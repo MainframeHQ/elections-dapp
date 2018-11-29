@@ -1,13 +1,13 @@
 {
-  "main.css": "/dapp-tutorial/static/css/main.74bae1fe.chunk.css",
-  "main.js": "/dapp-tutorial/static/js/main.dadaec07.chunk.js",
-  "main.js.map": "/dapp-tutorial/static/js/main.dadaec07.chunk.js.map",
+  "main.css": "/dapp-tutorial/static/css/main.a49b4a2c.chunk.css",
+  "main.js": "/dapp-tutorial/static/js/main.fc718f15.chunk.js",
+  "main.js.map": "/dapp-tutorial/static/js/main.fc718f15.chunk.js.map",
   "static/js/1.4f0a804c.chunk.js": "/dapp-tutorial/static/js/1.4f0a804c.chunk.js",
   "static/js/1.4f0a804c.chunk.js.map": "/dapp-tutorial/static/js/1.4f0a804c.chunk.js.map",
   "runtime~main.js": "/dapp-tutorial/static/js/runtime~main.03d66cac.js",
   "runtime~main.js.map": "/dapp-tutorial/static/js/runtime~main.03d66cac.js.map",
-  "static/css/main.74bae1fe.chunk.css.map": "/dapp-tutorial/static/css/main.74bae1fe.chunk.css.map",
+  "static/css/main.a49b4a2c.chunk.css.map": "/dapp-tutorial/static/css/main.a49b4a2c.chunk.css.map",
   "index.html": "/dapp-tutorial/index.html",
-  "precache-manifest.b1a42a2377e9fd509935ab5cc5f08420.js": "/dapp-tutorial/precache-manifest.b1a42a2377e9fd509935ab5cc5f08420.js",
+  "precache-manifest.fc3b74c883fd650cd81534a44f178d44.js": "/dapp-tutorial/precache-manifest.fc3b74c883fd650cd81534a44f178d44.js",
   "service-worker.js": "/dapp-tutorial/service-worker.js"
 }

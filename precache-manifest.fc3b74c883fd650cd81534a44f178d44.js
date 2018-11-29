@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/dapp-tutorial/static/js/runtime~main.03d66cac.js"
   },
   {
-    "revision": "dadaec0739985e94a2a7",
-    "url": "/dapp-tutorial/static/js/main.dadaec07.chunk.js"
+    "revision": "fc718f157a9cc4a35339",
+    "url": "/dapp-tutorial/static/js/main.fc718f15.chunk.js"
   },
   {
     "revision": "4f0a804c045aa7878012",
     "url": "/dapp-tutorial/static/js/1.4f0a804c.chunk.js"
   },
   {
-    "revision": "dadaec0739985e94a2a7",
-    "url": "/dapp-tutorial/static/css/main.74bae1fe.chunk.css"
+    "revision": "fc718f157a9cc4a35339",
+    "url": "/dapp-tutorial/static/css/main.a49b4a2c.chunk.css"
   },
   {
-    "revision": "d9ee7c314ef7d46a0dc95f74d949838d",
+    "revision": "91b9d6cf8ad17e0940b407e8116c6dc3",
     "url": "/dapp-tutorial/index.html"
   }
 ];
