@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/dapp-tutorial/precache-manifest.fc3b74c883fd650cd81534a44f178d44.js"
+  "/elections-dapp/precache-manifest.eb9892d773dc8faaa724b6028822e355.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/dapp-tutorial/index.html", {
+workbox.routing.registerNavigationRoute("/elections-dapp/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

@@ -1,13 +1,13 @@
 {
-  "main.css": "/dapp-tutorial/static/css/main.a49b4a2c.chunk.css",
-  "main.js": "/dapp-tutorial/static/js/main.fc718f15.chunk.js",
-  "main.js.map": "/dapp-tutorial/static/js/main.fc718f15.chunk.js.map",
-  "static/js/1.4f0a804c.chunk.js": "/dapp-tutorial/static/js/1.4f0a804c.chunk.js",
-  "static/js/1.4f0a804c.chunk.js.map": "/dapp-tutorial/static/js/1.4f0a804c.chunk.js.map",
-  "runtime~main.js": "/dapp-tutorial/static/js/runtime~main.03d66cac.js",
-  "runtime~main.js.map": "/dapp-tutorial/static/js/runtime~main.03d66cac.js.map",
-  "static/css/main.a49b4a2c.chunk.css.map": "/dapp-tutorial/static/css/main.a49b4a2c.chunk.css.map",
-  "index.html": "/dapp-tutorial/index.html",
-  "precache-manifest.fc3b74c883fd650cd81534a44f178d44.js": "/dapp-tutorial/precache-manifest.fc3b74c883fd650cd81534a44f178d44.js",
-  "service-worker.js": "/dapp-tutorial/service-worker.js"
+  "main.css": "/elections-dapp/static/css/main.a49b4a2c.chunk.css",
+  "main.js": "/elections-dapp/static/js/main.7c6b8f5a.chunk.js",
+  "main.js.map": "/elections-dapp/static/js/main.7c6b8f5a.chunk.js.map",
+  "static/js/1.4f0a804c.chunk.js": "/elections-dapp/static/js/1.4f0a804c.chunk.js",
+  "static/js/1.4f0a804c.chunk.js.map": "/elections-dapp/static/js/1.4f0a804c.chunk.js.map",
+  "runtime~main.js": "/elections-dapp/static/js/runtime~main.79377f00.js",
+  "runtime~main.js.map": "/elections-dapp/static/js/runtime~main.79377f00.js.map",
+  "static/css/main.a49b4a2c.chunk.css.map": "/elections-dapp/static/css/main.a49b4a2c.chunk.css.map",
+  "index.html": "/elections-dapp/index.html",
+  "precache-manifest.eb9892d773dc8faaa724b6028822e355.js": "/elections-dapp/precache-manifest.eb9892d773dc8faaa724b6028822e355.js",
+  "service-worker.js": "/elections-dapp/service-worker.js"
 }
